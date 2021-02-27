@@ -1,2 +1,2 @@
-# Node-Adonis-ReacJS
-Pequeno CRD usando Adonis
+# Node-Adonis-ReactJS
+Pequeno CRUD usando Adonis

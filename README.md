@@ -1,2 +1,10 @@
 # Node-Adonis-ReactJS
-Pequeno CRUD usando Adonis
+
+Estudo utilizando Adonis - Little CRUD
+
+## Tecs
+
+- NodeJS
+- AdonisJS
+- ReactJs
+- Javascript
